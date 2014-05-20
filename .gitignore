@@ -1,0 +1,10 @@
+*.asv
+metis-5.0.2
+metis-5.0.2.tar.gz
+igraph_draw.pyc
+igraph_draw-graph.smat
+igraph_draw-graph.xy
+igraph_draw-graph.png
+*.mex*
+*.eps
+*~
